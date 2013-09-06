@@ -3,6 +3,8 @@ package tz.infoshell.afishaapp.city;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+
+//TODO rebuild to Parcelable
 public class Cities implements Serializable {
 	private String _id= "no id";
 	private String _city = "default city";
